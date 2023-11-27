@@ -7,3 +7,5 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+
+### `Usar npm install en la carpeta del react y en la carpeta de API`
